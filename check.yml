@@ -1,0 +1,6 @@
+---
+- name: 
+  hosts: all
+
+  roles:
+  - check
